@@ -13,6 +13,10 @@ transcriber to not complete the job manually. Essentially, this project solves t
 and upload it into the online transcriber (because apparently it accepts .wav files of such size...)
 
 
-Objective: Create a transcriber that will:
-a. Turn .mp4 file into .wav
-b. Transcribe text from the video
+Objective: 
+
+Create a transcriber that will:
+
+1. Turn .mp4 file into .wav
+
+2. Transcribe text from the video
